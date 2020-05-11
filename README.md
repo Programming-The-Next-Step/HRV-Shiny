@@ -53,8 +53,7 @@ Extra Tasks
 Period Length – you can do a power calculation, but most literature suggests a minimum of 2.5 minutes.
 •	If there is extra time, I would include a power calculator in the app, if not, I will just warn the user against using a time segment smaller than 2.5 minutes.
 
-•	Data Cleaning – if there is time I might make a function that removes outliers for the user. If there isn’t time I would advise the user to clean their own data. 
-=======
+
 
 
 
